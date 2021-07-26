@@ -33,7 +33,7 @@ dependencies {
 group = "io.instacode.automation"
 version = "1.0-SNAPSHOT"
 description = "InstaCode Microservices Tracing Server"
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_11
 
 publishing {
     publications.create<MavenPublication>("maven") {
