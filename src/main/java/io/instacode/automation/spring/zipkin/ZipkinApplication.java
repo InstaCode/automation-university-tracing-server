@@ -1,4 +1,4 @@
-package io.instacode.automation.spring.cloud.zipkin;
+package io.instacode.automation.spring.zipkin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
